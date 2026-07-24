@@ -16,3 +16,10 @@ A beginner Python project for managing student records.
 
 ```bash
 python main.py
+
+
+## Author
+
+**Sivo Baloyi**
+
+- GitHub: https://github.com/BaloyiSivo
