@@ -11,12 +11,11 @@ A beginner Python project for managing student records.
 
 ## Technologies
 - Python 3
-
 ## How to Run
 
 ```bash
 python main.py
-
+```
 
 ## Author
 
